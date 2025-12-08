@@ -2,6 +2,7 @@
 <h3 align="center">Interested in all things Data/AI/ML</h3>
 
 - 🌱 I’m currently learning **Backend Development**
+- Besides Tech, I take interest in Consulting, Ideathons and Business case studies 
 
 - 📫 How to reach me **rishikarora2006@gmail.com**
 
