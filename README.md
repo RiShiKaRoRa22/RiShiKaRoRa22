@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishika</h1>
-<h3 align="center">Interested in all things Data/AI/ML</h3>
+<h3 align="center">Interested in all things Data/AI/ML| Research | Problem Solving </h3>
 
 - 🌱 I’m currently learning **Backend Development**
 - Besides Tech, I take interest in Consulting, Ideathons and Business case studies 
