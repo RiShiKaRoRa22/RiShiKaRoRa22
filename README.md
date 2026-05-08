@@ -9,6 +9,6 @@
 ![](https://streak-stats.demolab.com/?user=RiShiKaRoRa22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RiShiKaRoRa22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RiShiKaRoRa22&label=Profile views&color=0e75b6&style=flat" alt="RiShiKaRoRa22" /> </p>
+![](https://komarev.com/ghpvc/?username=RiShiKaRoRa22)
+
 
