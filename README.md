@@ -11,5 +11,5 @@
 
 ![](https://komarev.com/ghpvc/?username=RiShiKaRoRa22)
 
-![Snake animation](https://githubusercontent.com)
+![Snake animation](https://github.com/RiShiKaRoRa22/RiShiKaRoRa22/blob/output/github-snake.svg)
 
